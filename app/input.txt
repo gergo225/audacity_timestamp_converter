@@ -1,0 +1,21 @@
+13.040000	13.040000	1. The Essentialist
+2528.080000	2528.080000	2. CHOOSE: The Invincible Power of Choice
+3150.690000	3150.690000	3. DISCERN: The Unimportance of Practically Everything
+3781.870000	3781.870000	4. TRADE-OFF: Which Problem Do I Want?
+4906.100000	4906.100000	5. ESCAPE: The Perks of Being Unavailable
+5839.940000	5839.940000	6. LOOK: See What Really Matters
+6818.200000	6818.200000	7. PLAY: Embrace the Wisdom of Your Inner Child
+7557.910000	7557.910000	8. SLEEP: Protect the Asset
+8850.590000	8850.590000	9. SELECT: The Power of Extreme Criteria
+10134.193987	10134.193987	10. CLARIFY: One Decision That Makes a Thousand
+11083.290000	11083.290000	11. DARE: The Power of a Graceful "No"
+12521.920000	12521.920000	12. UNCOMMIT: Win Big by Cutting Your Losses
+13622.740000	13622.740000	13. EDIT: The Invisible Art
+14414.700000	14414.700000	14. LIMIT: The Freedom of Setting Boundaries
+15320.310000	15320.310000	15. BUFFER: The Unfair Advantage
+16445.140000	16445.140000	16. SUBTRACT: Bring Forth More by Removing Obstacles
+17186.200000	17186.200000	17. PROGRESS: The Power of Small Wins
+18155.540000	18155.540000	18. FLOW: The Genius of Routine
+19347.470000	19347.470000	19. FOCUS: What's Important Now?
+20447.130000	20447.130000	20. BE: The Essentialist Life
+21695.290000	21695.290000	Appendix: Leadership Essentials
